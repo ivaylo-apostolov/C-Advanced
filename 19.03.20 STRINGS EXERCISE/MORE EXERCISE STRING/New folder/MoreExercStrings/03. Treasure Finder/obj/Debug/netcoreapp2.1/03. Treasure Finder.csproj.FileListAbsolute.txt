@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\bin\Debug\netcoreapp2.1\03. Treasure Finder.deps.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\bin\Debug\netcoreapp2.1\03. Treasure Finder.runtimeconfig.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\bin\Debug\netcoreapp2.1\03. Treasure Finder.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\bin\Debug\netcoreapp2.1\03. Treasure Finder.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\bin\Debug\netcoreapp2.1\03. Treasure Finder.pdb
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.20 STRINGS EXERCISE\MORE EXERCISE STRING\New folder\MoreExercStrings\03. Treasure Finder\obj\Debug\netcoreapp2.1\03. Treasure Finder.pdb

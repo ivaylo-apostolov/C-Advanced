@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.deps.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.runtimeconfig.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\bin\Debug\netcoreapp2.1\08. Company Users.pdb
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.13 ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\ASSOS ARR EXERCISE\08. Company Users\obj\Debug\netcoreapp2.1\08. Company Users.pdb

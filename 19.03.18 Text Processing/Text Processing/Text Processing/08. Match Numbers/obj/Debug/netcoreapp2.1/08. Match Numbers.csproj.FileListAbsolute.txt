@@ -1,0 +1,10 @@
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\08. Match Numbers\bin\Debug\netcoreapp2.1\08. Match Numbers.deps.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\08. Match Numbers\bin\Debug\netcoreapp2.1\08. Match Numbers.runtimeconfig.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\08. Match Numbers\bin\Debug\netcoreapp2.1\08. Match Numbers.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\08. Match Numbers\bin\Debug\netcoreapp2.1\08. Match Numbers.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\08. Match Numbers\bin\Debug\netcoreapp2.1\08. Match Numbers.pdb
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\08. Match Numbers\obj\Debug\netcoreapp2.1\08. Match Numbers.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\08. Match Numbers\obj\Debug\netcoreapp2.1\08. Match Numbers.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\08. Match Numbers\obj\Debug\netcoreapp2.1\08. Match Numbers.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\08. Match Numbers\obj\Debug\netcoreapp2.1\08. Match Numbers.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\08. Match Numbers\obj\Debug\netcoreapp2.1\08. Match Numbers.pdb

@@ -1,0 +1,10 @@
+D:\Ivo\SoftUni\C# Tech Mod\19.03.11 Associative Arrays\Associative Arrays\19.03.11 Associative Arrays\test\bin\Debug\netcoreapp2.1\test.deps.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.11 Associative Arrays\Associative Arrays\19.03.11 Associative Arrays\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.11 Associative Arrays\Associative Arrays\19.03.11 Associative Arrays\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.11 Associative Arrays\Associative Arrays\19.03.11 Associative Arrays\test\bin\Debug\netcoreapp2.1\test.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.11 Associative Arrays\Associative Arrays\19.03.11 Associative Arrays\test\bin\Debug\netcoreapp2.1\test.pdb
+D:\Ivo\SoftUni\C# Tech Mod\19.03.11 Associative Arrays\Associative Arrays\19.03.11 Associative Arrays\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.11 Associative Arrays\Associative Arrays\19.03.11 Associative Arrays\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.11 Associative Arrays\Associative Arrays\19.03.11 Associative Arrays\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Tech Mod\19.03.11 Associative Arrays\Associative Arrays\19.03.11 Associative Arrays\test\obj\Debug\netcoreapp2.1\test.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.11 Associative Arrays\Associative Arrays\19.03.11 Associative Arrays\test\obj\Debug\netcoreapp2.1\test.pdb

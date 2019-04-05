@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\bin\Debug\netcoreapp2.1\LAB-.deps.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\bin\Debug\netcoreapp2.1\LAB-.runtimeconfig.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\bin\Debug\netcoreapp2.1\LAB-.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\bin\Debug\netcoreapp2.1\LAB-.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\bin\Debug\netcoreapp2.1\LAB-.pdb
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\obj\Debug\netcoreapp2.1\LAB-.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\obj\Debug\netcoreapp2.1\LAB-.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\obj\Debug\netcoreapp2.1\LAB-.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\obj\Debug\netcoreapp2.1\LAB-.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\obj\Debug\netcoreapp2.1\LAB-.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\LAB-\obj\Debug\netcoreapp2.1\LAB-.pdb

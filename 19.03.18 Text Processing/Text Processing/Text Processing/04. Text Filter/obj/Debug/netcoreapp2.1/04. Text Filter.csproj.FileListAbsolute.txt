@@ -1,0 +1,10 @@
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.deps.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\04. Text Filter\bin\Debug\netcoreapp2.1\04. Text Filter.pdb
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.dll
+D:\Ivo\SoftUni\C# Tech Mod\19.03.18 Text Processing\Text Processing\Text Processing\04. Text Filter\obj\Debug\netcoreapp2.1\04. Text Filter.pdb
