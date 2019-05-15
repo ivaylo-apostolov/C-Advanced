@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\bin\Debug\netcoreapp2.1\CatAndDogs.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\bin\Debug\netcoreapp2.1\CatAndDogs.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\bin\Debug\netcoreapp2.1\CatAndDogs.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\bin\Debug\netcoreapp2.1\CatAndDogs.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\bin\Debug\netcoreapp2.1\CatAndDogs.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\obj\Debug\netcoreapp2.1\CatAndDogs.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\obj\Debug\netcoreapp2.1\CatAndDogs.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\obj\Debug\netcoreapp2.1\CatAndDogs.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\obj\Debug\netcoreapp2.1\CatAndDogs.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\obj\Debug\netcoreapp2.1\CatAndDogs.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Inheritance\Inheritaance\CatAndDogs\obj\Debug\netcoreapp2.1\CatAndDogs.pdb

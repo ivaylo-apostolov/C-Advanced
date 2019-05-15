@@ -1,0 +1,10 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Cars\bin\Debug\netcoreapp2.1\Cars.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Cars\bin\Debug\netcoreapp2.1\Cars.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Cars\bin\Debug\netcoreapp2.1\Cars.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Cars\bin\Debug\netcoreapp2.1\Cars.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Cars\obj\Debug\netcoreapp2.1\Cars.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Cars\obj\Debug\netcoreapp2.1\Cars.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Cars\obj\Debug\netcoreapp2.1\Cars.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Cars\obj\Debug\netcoreapp2.1\Cars.pdb

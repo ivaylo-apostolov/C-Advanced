@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\bin\Debug\netcoreapp2.1\AbsAndInterface.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\bin\Debug\netcoreapp2.1\AbsAndInterface.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\bin\Debug\netcoreapp2.1\AbsAndInterface.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\bin\Debug\netcoreapp2.1\AbsAndInterface.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\bin\Debug\netcoreapp2.1\AbsAndInterface.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\obj\Debug\netcoreapp2.1\AbsAndInterface.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\obj\Debug\netcoreapp2.1\AbsAndInterface.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\obj\Debug\netcoreapp2.1\AbsAndInterface.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\obj\Debug\netcoreapp2.1\AbsAndInterface.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\obj\Debug\netcoreapp2.1\AbsAndInterface.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\AbsAndInterface\obj\Debug\netcoreapp2.1\AbsAndInterface.pdb

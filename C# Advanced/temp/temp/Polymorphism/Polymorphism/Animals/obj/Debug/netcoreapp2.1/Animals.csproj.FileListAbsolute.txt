@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Animals\obj\Debug\netcoreapp2.1\Animals.pdb

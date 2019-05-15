@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.pdb

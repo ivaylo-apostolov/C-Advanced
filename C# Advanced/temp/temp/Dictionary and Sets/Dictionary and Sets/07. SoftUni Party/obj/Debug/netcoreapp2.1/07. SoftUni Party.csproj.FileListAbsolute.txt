@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.pdb

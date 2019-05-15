@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\bin\Debug\netcoreapp2.1\PersonsInfo.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\bin\Debug\netcoreapp2.1\PersonsInfo.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\bin\Debug\netcoreapp2.1\PersonsInfo.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\bin\Debug\netcoreapp2.1\PersonsInfo.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\bin\Debug\netcoreapp2.1\PersonsInfo.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\obj\Debug\netcoreapp2.1\PersonsInfo.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\obj\Debug\netcoreapp2.1\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\obj\Debug\netcoreapp2.1\PersonsInfo.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\obj\Debug\netcoreapp2.1\PersonsInfo.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\obj\Debug\netcoreapp2.1\PersonsInfo.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Encapsulation\Encapsulation\01. Persons\obj\Debug\netcoreapp2.1\PersonsInfo.pdb

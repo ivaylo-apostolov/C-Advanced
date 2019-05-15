@@ -1,0 +1,10 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Stack and Queues\StackAndQueues\6. Traffic Jam\bin\Debug\netcoreapp2.1\6. Traffic Jam.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Stack and Queues\StackAndQueues\6. Traffic Jam\bin\Debug\netcoreapp2.1\6. Traffic Jam.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Stack and Queues\StackAndQueues\6. Traffic Jam\bin\Debug\netcoreapp2.1\6. Traffic Jam.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Stack and Queues\StackAndQueues\6. Traffic Jam\bin\Debug\netcoreapp2.1\6. Traffic Jam.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Stack and Queues\StackAndQueues\6. Traffic Jam\bin\Debug\netcoreapp2.1\6. Traffic Jam.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Stack and Queues\StackAndQueues\6. Traffic Jam\obj\Debug\netcoreapp2.1\6. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Stack and Queues\StackAndQueues\6. Traffic Jam\obj\Debug\netcoreapp2.1\6. Traffic Jam.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Stack and Queues\StackAndQueues\6. Traffic Jam\obj\Debug\netcoreapp2.1\6. Traffic Jam.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Stack and Queues\StackAndQueues\6. Traffic Jam\obj\Debug\netcoreapp2.1\6. Traffic Jam.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Stack and Queues\StackAndQueues\6. Traffic Jam\obj\Debug\netcoreapp2.1\6. Traffic Jam.pdb

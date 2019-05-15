@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\bin\Debug\netcoreapp2.1\WildFarm.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\WildFarm\obj\Debug\netcoreapp2.1\WildFarm.pdb

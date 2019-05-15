@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\bin\Debug\netcoreapp2.1\Dictionary and Sets.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\bin\Debug\netcoreapp2.1\Dictionary and Sets.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\bin\Debug\netcoreapp2.1\Dictionary and Sets.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\bin\Debug\netcoreapp2.1\Dictionary and Sets.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\bin\Debug\netcoreapp2.1\Dictionary and Sets.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\obj\Debug\netcoreapp2.1\Dictionary and Sets.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\obj\Debug\netcoreapp2.1\Dictionary and Sets.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\obj\Debug\netcoreapp2.1\Dictionary and Sets.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\obj\Debug\netcoreapp2.1\Dictionary and Sets.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\obj\Debug\netcoreapp2.1\Dictionary and Sets.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Dictionary and Sets\Dictionary and Sets\Dictionary and Sets\obj\Debug\netcoreapp2.1\Dictionary and Sets.pdb

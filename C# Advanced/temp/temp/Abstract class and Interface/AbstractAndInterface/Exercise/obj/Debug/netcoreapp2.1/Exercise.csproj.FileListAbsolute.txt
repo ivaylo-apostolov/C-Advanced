@@ -1,0 +1,10 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Exercise\bin\Debug\netcoreapp2.1\Exercise.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Exercise\bin\Debug\netcoreapp2.1\Exercise.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Exercise\bin\Debug\netcoreapp2.1\Exercise.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Exercise\bin\Debug\netcoreapp2.1\Exercise.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Exercise\bin\Debug\netcoreapp2.1\Exercise.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Exercise\obj\Debug\netcoreapp2.1\Exercise.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Exercise\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Exercise\obj\Debug\netcoreapp2.1\Exercise.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Exercise\obj\Debug\netcoreapp2.1\Exercise.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Abstract class and Interface\AbstractAndInterface\Exercise\obj\Debug\netcoreapp2.1\Exercise.pdb

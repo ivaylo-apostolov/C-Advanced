@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\bin\Debug\netcoreapp2.1\Problem 1. Vehicles.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\bin\Debug\netcoreapp2.1\Problem 1. Vehicles.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\bin\Debug\netcoreapp2.1\Problem 1. Vehicles.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\bin\Debug\netcoreapp2.1\Problem 1. Vehicles.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\bin\Debug\netcoreapp2.1\Problem 1. Vehicles.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\obj\Debug\netcoreapp2.1\Problem 1. Vehicles.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\obj\Debug\netcoreapp2.1\Problem 1. Vehicles.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\obj\Debug\netcoreapp2.1\Problem 1. Vehicles.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\obj\Debug\netcoreapp2.1\Problem 1. Vehicles.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\obj\Debug\netcoreapp2.1\Problem 1. Vehicles.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Problem 1. Vehicles\obj\Debug\netcoreapp2.1\Problem 1. Vehicles.pdb

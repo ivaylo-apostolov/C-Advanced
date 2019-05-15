@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+D:\Ivo\SoftUni\C# Advanced\temp\Polymorphism\Polymorphism\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb
