@@ -6,7 +6,7 @@ namespace _07._Truck_Tour
     {
         static void Main(string[] args)
         {
-            
+            int numberOfPomps = int.Parse(cons)
         }
     }
 }

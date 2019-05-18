@@ -1,0 +1,10 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.runtimeconfig.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.pdb

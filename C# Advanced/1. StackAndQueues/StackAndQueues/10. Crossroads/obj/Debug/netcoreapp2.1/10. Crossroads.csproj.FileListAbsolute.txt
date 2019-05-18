@@ -1,0 +1,11 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.runtimeconfig.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\1. StackAndQueues\StackAndQueues\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.pdb
