@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\bin\Debug\netcoreapp2.1\11.Key Revolver.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\bin\Debug\netcoreapp2.1\11.Key Revolver.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\bin\Debug\netcoreapp2.1\11.Key Revolver.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\bin\Debug\netcoreapp2.1\11.Key Revolver.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\bin\Debug\netcoreapp2.1\11.Key Revolver.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\obj\Debug\netcoreapp2.1\11.Key Revolver.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\obj\Debug\netcoreapp2.1\11.Key Revolver.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\obj\Debug\netcoreapp2.1\11.Key Revolver.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\obj\Debug\netcoreapp2.1\11.Key Revolver.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\obj\Debug\netcoreapp2.1\11.Key Revolver.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\1. StackAndQueues\StackAndQueues\11.Key Revolver\obj\Debug\netcoreapp2.1\11.Key Revolver.pdb

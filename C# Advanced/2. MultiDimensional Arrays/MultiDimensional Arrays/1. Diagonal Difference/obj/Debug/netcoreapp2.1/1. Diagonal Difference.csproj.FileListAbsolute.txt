@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\bin\Debug\netcoreapp2.1\1. Diagonal Difference.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\bin\Debug\netcoreapp2.1\1. Diagonal Difference.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\bin\Debug\netcoreapp2.1\1. Diagonal Difference.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\bin\Debug\netcoreapp2.1\1. Diagonal Difference.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\bin\Debug\netcoreapp2.1\1. Diagonal Difference.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\1. Diagonal Difference\obj\Debug\netcoreapp2.1\1. Diagonal Difference.pdb

@@ -1,0 +1,10 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\2. Squares in Matrix\bin\Debug\netcoreapp2.1\2. Squares in Matrix.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\2. Squares in Matrix\bin\Debug\netcoreapp2.1\2. Squares in Matrix.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\2. Squares in Matrix\bin\Debug\netcoreapp2.1\2. Squares in Matrix.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\2. Squares in Matrix\bin\Debug\netcoreapp2.1\2. Squares in Matrix.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\2. Squares in Matrix\bin\Debug\netcoreapp2.1\2. Squares in Matrix.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\2. Squares in Matrix\obj\Debug\netcoreapp2.1\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\2. Squares in Matrix\obj\Debug\netcoreapp2.1\2. Squares in Matrix.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\2. Squares in Matrix\obj\Debug\netcoreapp2.1\2. Squares in Matrix.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\2. Squares in Matrix\obj\Debug\netcoreapp2.1\2. Squares in Matrix.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\2. MultiDimensional Arrays\MultiDimensional Arrays\2. Squares in Matrix\obj\Debug\netcoreapp2.1\2. Squares in Matrix.pdb

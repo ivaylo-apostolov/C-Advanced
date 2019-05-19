@@ -15,13 +15,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Fashion Boutique", "05.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Auto Repair and Service", "06. Auto Repair and Service\06. Auto Repair and Service.csproj", "{E910CF95-B884-4C02-99C2-B871BA0B60BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07", "7\07.csproj", "{BFA4465C-84CF-4CD7-8240-A7FC5640AB6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07", "7\07.csproj", "{BFA4465C-84CF-4CD7-8240-A7FC5640AB6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Balanced Parenthesis", "08. Balanced Parenthesis\08. Balanced Parenthesis.csproj", "{3BCB076F-099F-4B10-A88B-FF20284FBF07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Balanced Parenthesis", "08. Balanced Parenthesis\08. Balanced Parenthesis.csproj", "{3BCB076F-099F-4B10-A88B-FF20284FBF07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Simple Text Editor", "09. Simple Text Editor\09. Simple Text Editor.csproj", "{1ED42AF7-1270-407D-92C5-512A5F52C0E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Simple Text Editor", "09. Simple Text Editor\09. Simple Text Editor.csproj", "{1ED42AF7-1270-407D-92C5-512A5F52C0E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Crossroads", "10. Crossroads\10. Crossroads.csproj", "{9AD0F101-C6D7-4193-A76A-F030564AC725}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Crossroads", "10. Crossroads\10. Crossroads.csproj", "{9AD0F101-C6D7-4193-A76A-F030564AC725}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Key Revolver", "11.Key Revolver\11.Key Revolver.csproj", "{0CFC5FE5-B7FC-4A4D-915B-CB99CB3FCF65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Cups and Bottles", "12. Cups and Bottles\12. Cups and Bottles.csproj", "{97F70197-5F46-49F5-8455-DAC08EF1A50F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{9AD0F101-C6D7-4193-A76A-F030564AC725}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AD0F101-C6D7-4193-A76A-F030564AC725}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AD0F101-C6D7-4193-A76A-F030564AC725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFC5FE5-B7FC-4A4D-915B-CB99CB3FCF65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFC5FE5-B7FC-4A4D-915B-CB99CB3FCF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFC5FE5-B7FC-4A4D-915B-CB99CB3FCF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFC5FE5-B7FC-4A4D-915B-CB99CB3FCF65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F70197-5F46-49F5-8455-DAC08EF1A50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F70197-5F46-49F5-8455-DAC08EF1A50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F70197-5F46-49F5-8455-DAC08EF1A50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F70197-5F46-49F5-8455-DAC08EF1A50F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
