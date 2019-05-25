@@ -1,0 +1,11 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.runtimeconfig.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.csprojAssemblyReference.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.pdb

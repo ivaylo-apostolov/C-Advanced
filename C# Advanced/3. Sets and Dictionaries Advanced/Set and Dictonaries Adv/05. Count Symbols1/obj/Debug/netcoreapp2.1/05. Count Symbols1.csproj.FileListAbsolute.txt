@@ -1,0 +1,10 @@
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\05. Count Symbols1\bin\Debug\netcoreapp2.1\05. Count Symbols1.deps.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\05. Count Symbols1\bin\Debug\netcoreapp2.1\05. Count Symbols1.runtimeconfig.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\05. Count Symbols1\bin\Debug\netcoreapp2.1\05. Count Symbols1.runtimeconfig.dev.json
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\05. Count Symbols1\bin\Debug\netcoreapp2.1\05. Count Symbols1.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\05. Count Symbols1\bin\Debug\netcoreapp2.1\05. Count Symbols1.pdb
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\05. Count Symbols1\obj\Debug\netcoreapp2.1\05. Count Symbols1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\05. Count Symbols1\obj\Debug\netcoreapp2.1\05. Count Symbols1.AssemblyInfoInputs.cache
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\05. Count Symbols1\obj\Debug\netcoreapp2.1\05. Count Symbols1.AssemblyInfo.cs
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\05. Count Symbols1\obj\Debug\netcoreapp2.1\05. Count Symbols1.dll
+C:\Users\ASUS VivoBook\Documents\Ivo\SoftUni\C# Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\05. Count Symbols1\obj\Debug\netcoreapp2.1\05. Count Symbols1.pdb
