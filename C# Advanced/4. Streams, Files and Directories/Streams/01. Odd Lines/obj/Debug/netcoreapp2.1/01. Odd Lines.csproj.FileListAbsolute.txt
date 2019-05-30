@@ -1,0 +1,13 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\bin\Debug\netcoreapp2.1\01. Odd Lines.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\bin\Debug\netcoreapp2.1\01. Odd Lines.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\bin\Debug\netcoreapp2.1\01. Odd Lines.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\bin\Debug\netcoreapp2.1\01. Odd Lines.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\bin\Debug\netcoreapp2.1\01. Odd Lines.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\obj\Debug\netcoreapp2.1\01. Odd Lines.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\bin\Debug\netcoreapp2.1\Files\Input.txt
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\4. Streams, Files and Directories\Streams\01. Odd Lines\bin\Debug\netcoreapp2.1\Files\Ouput.txt
