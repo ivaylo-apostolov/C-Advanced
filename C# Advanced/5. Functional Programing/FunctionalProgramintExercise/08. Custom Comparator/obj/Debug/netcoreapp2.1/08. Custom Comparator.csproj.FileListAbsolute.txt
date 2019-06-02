@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\bin\Debug\netcoreapp2.1\08. Custom Comparator.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\bin\Debug\netcoreapp2.1\08. Custom Comparator.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\bin\Debug\netcoreapp2.1\08. Custom Comparator.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\bin\Debug\netcoreapp2.1\08. Custom Comparator.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\bin\Debug\netcoreapp2.1\08. Custom Comparator.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.pdb

@@ -1,0 +1,10 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.pdb

@@ -1,0 +1,10 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Lab2\bin\Debug\netcoreapp2.1\Lab2.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Lab2\bin\Debug\netcoreapp2.1\Lab2.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Lab2\bin\Debug\netcoreapp2.1\Lab2.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Lab2\bin\Debug\netcoreapp2.1\Lab2.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Lab2\bin\Debug\netcoreapp2.1\Lab2.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Lab2\obj\Debug\netcoreapp2.1\Lab2.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Lab2\obj\Debug\netcoreapp2.1\Lab2.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Lab2\obj\Debug\netcoreapp2.1\Lab2.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Lab2\obj\Debug\netcoreapp2.1\Lab2.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\Functional Programing\Lab2\obj\Debug\netcoreapp2.1\Lab2.pdb

@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.pdb

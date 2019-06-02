@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.pdb

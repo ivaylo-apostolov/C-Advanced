@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.pdb
