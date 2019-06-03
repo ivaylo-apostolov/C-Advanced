@@ -8,17 +8,11 @@ namespace _11._The_Party_Reservation_Filter_Module
     {
         static void Main(string[] args)
         {
-            //It should add dictionary to keep all commands. 
-            //Now the program doesn't work
-
             var list = Console.ReadLine()
                 .Split()
                 .ToList();
 
-            bool startsWith = false;
-            bool endsWith = false;
-            bool lenght = false;
-            bool contains = false;
+            var dict = new Dictionary<string, Dictionary<string, HashSet<string>>>();
 
             var filterType = string.Empty;
             var pattern = string.Empty;
@@ -33,22 +27,41 @@ namespace _11._The_Party_Reservation_Filter_Module
 
                 if (command == "Print")
                 {
-                    if (startsWith)
+                    foreach (var kvp in dict)
                     {
-                        AddFilterStartsWith(list, pattern);
+                        foreach (var kvp2 in kvp.Value)
+                        {
+                            if (kvp2.Key == "Starts with")
+                            {
+                                foreach (var pat in kvp2.Value)
+                                {
+                                    list = AddFilterStartsWith(list, pat);
+                                }
+                            }
+                            else if (kvp2.Key == "Ends with")
+                            {
+                                foreach (var pat in kvp2.Value)
+                                {
+                                    list = AddFilterEndssWith(list, pat);
+                                }
+                            }
+                            else if (kvp2.Key == "Length")
+                            {
+                                foreach (var pat in kvp2.Value)
+                                {
+                                    list = AddFilterLenght(list, int.Parse(pat));
+                                }
+                            }
+                            else if (kvp2.Key == "Contains")
+                            {
+                                foreach (var pat in kvp2.Value)
+                                {
+                                    list = AddFilterContains(list, pat);
+                                }
+                            }
+                        }
                     }
-                    if (endsWith)
-                    {
-                        AddFilterEndssWith(list, pattern);
-                    }
-                    if (lenght)
-                    {
-                        AddFilterLenght(list, int.Parse(pattern));
-                    }
-                    if (contains)
-                    {
-                        AddFilterContains(list, pattern);
-                    }
+
                     Print(list);
                     return;
                 }
@@ -58,21 +71,46 @@ namespace _11._The_Party_Reservation_Filter_Module
                     filterType = inputCommand[1];
                     pattern = inputCommand[2];
 
+                    if (!dict.ContainsKey(command))
+                    {
+                        dict[command] = new Dictionary<string, HashSet<string>>();
+                    }
+
                     if (filterType == "Starts with")
                     {
-                        startsWith = true;
+                        if (!dict[command].ContainsKey(filterType))
+                        {
+                            dict[command][filterType] = new HashSet<string>();
+                        }
+
+                        dict[command][filterType].Add(pattern);
                     }
                     else if (filterType == "Ends with")
                     {
-                        endsWith = true;
+                        if (!dict[command].ContainsKey(filterType))
+                        {
+                            dict[command][filterType] = new HashSet<string>();
+                        }
+
+                        dict[command][filterType].Add(pattern);
                     }
                     else if (filterType == "Length")
                     {
-                        lenght = true;
+                        if (!dict[command].ContainsKey(filterType))
+                        {
+                            dict[command][filterType] = new HashSet<string>();
+                        }
+
+                        dict[command][filterType].Add(pattern);
                     }
                     else if (filterType == "Contains")
                     {
-                        contains = true;
+                        if (!dict[command].ContainsKey(filterType))
+                        {
+                            dict[command][filterType] = new HashSet<string>();
+                        }
+
+                        dict[command][filterType].Add(pattern);
                     }
                 }
                 else if (command == "Remove filter")
@@ -80,51 +118,63 @@ namespace _11._The_Party_Reservation_Filter_Module
                     filterType = inputCommand[1];
                     pattern = inputCommand[2];
 
-                    if (filterType == "StartsWith")
+                    if (filterType == "Starts with")
                     {
-                        startsWith = false;
+                        if (dict.ContainsKey("Add filter") && dict["Add filter"].ContainsKey("Starts with"))
+                        {
+                            dict["Add filter"]["Starts with"].Remove(pattern);
+                        }
                     }
-                    else if (filterType == "EndsWith")
+                    else if (filterType == "Ends with")
                     {
-                        endsWith = false;
+                        if (dict.ContainsKey("Add filter") && dict["Add filter"].ContainsKey("Ends with"))
+                        {
+                            dict["Add filter"]["Ends with"].Remove(pattern);
+                        }
                     }
                     else if (filterType == "Length")
                     {
-                        lenght = false;
+                        if (dict.ContainsKey("Add filter") && dict["Add filter"].ContainsKey("Length"))
+                        {
+                            dict["Add filter"]["Length"].Remove(pattern);
+                        }
                     }
                     else if (filterType == "Contains")
                     {
-                        contains = false;
+                        if (dict.ContainsKey("Add filter") && dict["Add filter"].ContainsKey("Contains"))
+                        {
+                            dict["Add filter"]["Contains"].Remove(pattern);
+                        }
                     }
                 }
 
             }
         }
 
-        public static void AddFilterStartsWith(List<string> list, string pattern)
+        public static List<string> AddFilterStartsWith(List<string> list, string pattern)
         {
-            list
+            return list
                 .Where(x => x.StartsWith(pattern) != true)
                 .ToList();
         }
 
-        public static void AddFilterEndssWith(List<string> list, string pattern)
+        public static List<string> AddFilterEndssWith(List<string> list, string pattern)
         {
-            list
+            return list
                 .Where(x => x.EndsWith(pattern) != true)
                 .ToList();
         }
 
-        public static void AddFilterLenght(List<string> list, int lenght)
+        public static List<string> AddFilterLenght(List<string> list, int lenght)
         {
-            list
+            return list
                 .Where(x => x.Length != lenght)
                 .ToList();
         }
 
-        public static void AddFilterContains(List<string> list, string contains)
+        public static List<string> AddFilterContains(List<string> list, string contains)
         {
-            list
+            return list
                 .Where(x => x.Contains(contains) != true)
                 .ToList();
         }

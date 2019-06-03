@@ -11,19 +11,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Custom Min Function", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Find Evens or Odds", "04. Find Evens or Odds\04. Find Evens or Odds.csproj", "{193D9919-7855-453A-AEC9-D9C4013962A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Applied Arithmetics", "05. Applied Arithmetics\05. Applied Arithmetics.csproj", "{F8C18F17-AF37-47CA-A60F-37AC0C7271C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Applied Arithmetics", "05. Applied Arithmetics\05. Applied Arithmetics.csproj", "{F8C18F17-AF37-47CA-A60F-37AC0C7271C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Reverse And Exclude", "06. Reverse And Exclude\06. Reverse And Exclude.csproj", "{9B3BD1D4-6309-4154-9AE7-1451F3F8852D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Reverse And Exclude", "06. Reverse And Exclude\06. Reverse And Exclude.csproj", "{9B3BD1D4-6309-4154-9AE7-1451F3F8852D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Predicate For Names", "07. Predicate For Names\07. Predicate For Names.csproj", "{CE26DF2E-052C-49CB-99F6-99BFC1CDDA9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Predicate For Names", "07. Predicate For Names\07. Predicate For Names.csproj", "{CE26DF2E-052C-49CB-99F6-99BFC1CDDA9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Custom Comparator", "08. Custom Comparator\08. Custom Comparator.csproj", "{4C58D5AE-9739-47BE-99FF-9228893B6F83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Custom Comparator", "08. Custom Comparator\08. Custom Comparator.csproj", "{4C58D5AE-9739-47BE-99FF-9228893B6F83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. List Of Predicates", "09. List Of Predicates\09. List Of Predicates.csproj", "{1571602F-517F-4FF8-960F-348BA8039771}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. List Of Predicates", "09. List Of Predicates\09. List Of Predicates.csproj", "{1571602F-517F-4FF8-960F-348BA8039771}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Predicate Party!", "10. Predicate Party!\10. Predicate Party!.csproj", "{220A417A-4614-4E35-9B63-8F579AE3DD93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Predicate Party!", "10. Predicate Party!\10. Predicate Party!.csproj", "{220A417A-4614-4E35-9B63-8F579AE3DD93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. The Party Reservation Filter Module", "11. The Party Reservation Filter Module\11. The Party Reservation Filter Module.csproj", "{A484BBC5-B264-4FDC-97B0-DC1CE16FB8FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. The Party Reservation Filter Module", "11. The Party Reservation Filter Module\11. The Party Reservation Filter Module.csproj", "{A484BBC5-B264-4FDC-97B0-DC1CE16FB8FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temp", "temp\temp.csproj", "{2C55CCDF-23BF-4337-B3B0-C34789513D1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A484BBC5-B264-4FDC-97B0-DC1CE16FB8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A484BBC5-B264-4FDC-97B0-DC1CE16FB8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A484BBC5-B264-4FDC-97B0-DC1CE16FB8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C55CCDF-23BF-4337-B3B0-C34789513D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C55CCDF-23BF-4337-B3B0-C34789513D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C55CCDF-23BF-4337-B3B0-C34789513D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C55CCDF-23BF-4337-B3B0-C34789513D1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
