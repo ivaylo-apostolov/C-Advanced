@@ -12,27 +12,37 @@ namespace _01._Odd_Lines
             string outputFile = "output.txt";
             string filePath = Path.Combine(path, inputFile);
 
-            using (var reader = new StreamReader(filePath))
-            {
-                string line = reader.ReadLine();
+            string[] allLines = File.ReadAllLines(filePath);
 
-                using (var writer = new StreamWriter(Path.Combine(path, outputFile)))
-                {
-                    int counter = 1;
+            File.WriteAllLines(Path.Combine(path, outputFile), allLines);
+            File.AppendAllText(Path.Combine(path, outputFile), "New line");
 
-                    while (line != null)
-                    {
-                        if (counter % 2 != 0)
-                        {
-                            writer.WriteLine($"{counter}. {line}");
-                            Console.WriteLine($"{counter}. {line}");
-                            counter++;
-                        }                        
-                        
-                        line = reader.ReadLine();
-                    }
-                }
-            }
+
+
+            
+
+            //using (var reader = new StreamReader(filePath))
+            //{
+            //    string line = reader.ReadLine();
+
+            //    using (var writer = new StreamWriter(Path.Combine(path, outputFile)))
+            //    {
+            //        int counter = 1;
+
+            //        while (line != null)
+            //        {
+            //            if (counter % 2 != 0)
+            //            {
+            //                writer.WriteLine($"{counter}. {line}");
+            //                Console.WriteLine($"{counter}. {line}");
+            //                counter++;
+            //            }
+
+            //            line = reader.ReadLine();
+            //        }
+            //    }
+            //}
         }
     }
+
 }

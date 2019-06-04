@@ -1,0 +1,11 @@
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\bin\Debug\netcoreapp2.2\FilesAndDirectories.deps.json
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\bin\Debug\netcoreapp2.2\FilesAndDirectories.runtimeconfig.json
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\bin\Debug\netcoreapp2.2\FilesAndDirectories.runtimeconfig.dev.json
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\bin\Debug\netcoreapp2.2\FilesAndDirectories.dll
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\bin\Debug\netcoreapp2.2\FilesAndDirectories.pdb
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\obj\Debug\netcoreapp2.2\FilesAndDirectories.csprojAssemblyReference.cache
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\obj\Debug\netcoreapp2.2\FilesAndDirectories.csproj.CoreCompileInputs.cache
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\obj\Debug\netcoreapp2.2\FilesAndDirectories.AssemblyInfoInputs.cache
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\obj\Debug\netcoreapp2.2\FilesAndDirectories.AssemblyInfo.cs
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\obj\Debug\netcoreapp2.2\FilesAndDirectories.dll
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\4. Streams, Files and Directories\Streams\FilesAndDirectories\obj\Debug\netcoreapp2.2\FilesAndDirectories.pdb
