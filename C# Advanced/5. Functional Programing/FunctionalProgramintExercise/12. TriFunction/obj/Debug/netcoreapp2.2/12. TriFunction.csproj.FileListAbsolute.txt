@@ -1,0 +1,11 @@
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\bin\Debug\netcoreapp2.2\12. TriFunction.deps.json
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\bin\Debug\netcoreapp2.2\12. TriFunction.runtimeconfig.json
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\bin\Debug\netcoreapp2.2\12. TriFunction.runtimeconfig.dev.json
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\bin\Debug\netcoreapp2.2\12. TriFunction.dll
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\bin\Debug\netcoreapp2.2\12. TriFunction.pdb
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\obj\Debug\netcoreapp2.2\12. TriFunction.csprojAssemblyReference.cache
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\obj\Debug\netcoreapp2.2\12. TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\obj\Debug\netcoreapp2.2\12. TriFunction.AssemblyInfoInputs.cache
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\obj\Debug\netcoreapp2.2\12. TriFunction.AssemblyInfo.cs
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\obj\Debug\netcoreapp2.2\12. TriFunction.dll
+C:\Users\iapos\Documents\SoftUni\C# Advanced\C# Advanced\5. Functional Programing\FunctionalProgramintExercise\12. TriFunction\obj\Debug\netcoreapp2.2\12. TriFunction.pdb
