@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\bin\Debug\netcoreapp2.1\SpeedRacing.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\SpeedRacing\obj\Debug\netcoreapp2.1\SpeedRacing.pdb

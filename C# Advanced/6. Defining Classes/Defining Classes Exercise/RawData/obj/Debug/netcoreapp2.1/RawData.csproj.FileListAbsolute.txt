@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.pdb

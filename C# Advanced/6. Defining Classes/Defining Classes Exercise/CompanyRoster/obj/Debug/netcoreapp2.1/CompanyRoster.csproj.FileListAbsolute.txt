@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.pdb
