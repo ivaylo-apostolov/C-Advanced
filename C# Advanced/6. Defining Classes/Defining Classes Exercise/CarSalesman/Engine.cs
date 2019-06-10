@@ -14,7 +14,6 @@
         {
             this.Model = model;
             this.Power = power;
-            this.Displacement = (int)displacement;
         }
 
         public string Model { get => model; set => model = value; }

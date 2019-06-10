@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\bin\Debug\netcoreapp2.1\PokemonTrainer.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\PokemonTrainer\obj\Debug\netcoreapp2.1\PokemonTrainer.pdb

@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\bin\Debug\netcoreapp2.1\CarSeles.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\bin\Debug\netcoreapp2.1\CarSeles.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\bin\Debug\netcoreapp2.1\CarSeles.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\bin\Debug\netcoreapp2.1\CarSeles.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\bin\Debug\netcoreapp2.1\CarSeles.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\obj\Debug\netcoreapp2.1\CarSeles.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\obj\Debug\netcoreapp2.1\CarSeles.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\obj\Debug\netcoreapp2.1\CarSeles.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\obj\Debug\netcoreapp2.1\CarSeles.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\obj\Debug\netcoreapp2.1\CarSeles.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\Defining Classes Exercise\CarSeles\obj\Debug\netcoreapp2.1\CarSeles.pdb
