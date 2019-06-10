@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iapos\\Documents\\SoftUni\\C# Advanced\\C# Advanced\\6. Defining Classes\\Defining Classes\\Car\\Car.csproj",
-      "projectName": "Car",
-      "projectPath": "C:\\Users\\iapos\\Documents\\SoftUni\\C# Advanced\\C# Advanced\\6. Defining Classes\\Defining Classes\\Car\\Car.csproj",
+      "projectUniqueName": "C:\\Users\\iapos\\Documents\\SoftUni\\C# Advanced\\C# Advanced\\6. Defining Classes\\DefiningClasses\\DefiningClasses\\DefiningClasses.csproj",
+      "projectName": "DefiningClasses",
+      "projectPath": "C:\\Users\\iapos\\Documents\\SoftUni\\C# Advanced\\C# Advanced\\6. Defining Classes\\DefiningClasses\\DefiningClasses\\DefiningClasses.csproj",
       "packagesPath": "C:\\Users\\iapos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iapos\\Documents\\SoftUni\\C# Advanced\\C# Advanced\\6. Defining Classes\\Defining Classes\\Car\\obj\\",
+      "outputPath": "C:\\Users\\iapos\\Documents\\SoftUni\\C# Advanced\\C# Advanced\\6. Defining Classes\\DefiningClasses\\DefiningClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
