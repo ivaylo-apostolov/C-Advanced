@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace PokemonTrainer
 {
@@ -39,7 +40,15 @@ namespace PokemonTrainer
 
             while ((input2 = Console.ReadLine()) != "End")
             {
+                foreach (var trainer in names)
+                {
+                    trainer.CheckElements(input2, trainer);
+                }
+            }
 
+            foreach (var trainer in names.OrderByDescending(t => t.NumberOfBadges))
+            {
+                Console.WriteLine(trainer.ToString());
             }
         }
     }

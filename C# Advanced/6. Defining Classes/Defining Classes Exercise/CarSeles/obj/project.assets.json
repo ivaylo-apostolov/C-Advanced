@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ivaylo Apostolov\\.nuget\\packages\\": {},
+    "C:\\Users\\iapos\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ivo\\SoftUni\\C#Advanced\\C# Advanced\\6. Defining Classes\\Defining Classes Exercise\\CarSeles\\CarSeles.csproj",
+      "projectUniqueName": "C:\\Users\\iapos\\Documents\\SoftUni\\C# Advanced\\C# Advanced\\6. Defining Classes\\Defining Classes Exercise\\CarSeles\\CarSeles.csproj",
       "projectName": "CarSeles",
-      "projectPath": "D:\\Ivo\\SoftUni\\C#Advanced\\C# Advanced\\6. Defining Classes\\Defining Classes Exercise\\CarSeles\\CarSeles.csproj",
-      "packagesPath": "C:\\Users\\Ivaylo Apostolov\\.nuget\\packages\\",
-      "outputPath": "D:\\Ivo\\SoftUni\\C#Advanced\\C# Advanced\\6. Defining Classes\\Defining Classes Exercise\\CarSeles\\obj\\",
+      "projectPath": "C:\\Users\\iapos\\Documents\\SoftUni\\C# Advanced\\C# Advanced\\6. Defining Classes\\Defining Classes Exercise\\CarSeles\\CarSeles.csproj",
+      "packagesPath": "C:\\Users\\iapos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iapos\\Documents\\SoftUni\\C# Advanced\\C# Advanced\\6. Defining Classes\\Defining Classes Exercise\\CarSeles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ivaylo Apostolov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iapos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -729,6 +729,7 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
