@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\6. Defining Classes\10. SoftUni Parking_Скелет\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.pdb
