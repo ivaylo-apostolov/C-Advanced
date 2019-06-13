@@ -29,5 +29,16 @@ namespace SoftUniParking
         public int HorsePower { get => horsePower; set => horsePower = value; }
 
         public string RegistrationNumber { get => registrationNumber; set => registrationNumber = value; }
+
+        public override string ToString()
+        {
+            return $"Make: {this.Make}" +
+                Environment.NewLine +
+                $"Model: {this.Model}" +
+                Environment.NewLine +
+                $"HorsePower: {this.HorsePower}" +
+                Environment.NewLine +
+                $"RegistrationNumber: {this.RegistrationNumber}";
+        }
     }
 }

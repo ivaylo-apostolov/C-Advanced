@@ -20,7 +20,7 @@ namespace SoftUniParking
         {
             get
             {
-                return cars.Capacity;
+                return cars.Count;
             }
         }
 

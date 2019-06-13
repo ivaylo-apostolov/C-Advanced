@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\bin\Debug\netcoreapp2.1\Generics LAB.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\bin\Debug\netcoreapp2.1\Generics LAB.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\bin\Debug\netcoreapp2.1\Generics LAB.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\bin\Debug\netcoreapp2.1\Generics LAB.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\bin\Debug\netcoreapp2.1\Generics LAB.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\obj\Debug\netcoreapp2.1\Generics LAB.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\obj\Debug\netcoreapp2.1\Generics LAB.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\obj\Debug\netcoreapp2.1\Generics LAB.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\obj\Debug\netcoreapp2.1\Generics LAB.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\obj\Debug\netcoreapp2.1\Generics LAB.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\7. Generics\Generics LAB\Generics LAB\obj\Debug\netcoreapp2.1\Generics LAB.pdb
