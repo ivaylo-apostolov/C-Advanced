@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\bin\Debug\netcoreapp2.1\TronRacers.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TronRacers\obj\Debug\netcoreapp2.1\TronRacers.csprojAssemblyReference.cache

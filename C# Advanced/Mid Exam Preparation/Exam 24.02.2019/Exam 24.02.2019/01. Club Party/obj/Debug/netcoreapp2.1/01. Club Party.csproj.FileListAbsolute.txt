@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.pdb

@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS VivoBook\\.nuget\\packages\\": {},
+    "C:\\Users\\Ivaylo Apostolov\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C# Advanced\\C# Advanced\\3. Sets and Dictionaries Advanced\\Set and Dictonaries Adv\\01. Unique Usernames\\01. Unique Usernames.csproj",
+      "projectUniqueName": "D:\\Ivo\\SoftUni\\C#Advanced\\C# Advanced\\3. Sets and Dictionaries Advanced\\Set and Dictonaries Adv\\01. Unique Usernames\\01. Unique Usernames.csproj",
       "projectName": "01. Unique Usernames",
-      "projectPath": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C# Advanced\\C# Advanced\\3. Sets and Dictionaries Advanced\\Set and Dictonaries Adv\\01. Unique Usernames\\01. Unique Usernames.csproj",
-      "packagesPath": "C:\\Users\\ASUS VivoBook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS VivoBook\\Documents\\Ivo\\SoftUni\\C# Advanced\\C# Advanced\\3. Sets and Dictionaries Advanced\\Set and Dictonaries Adv\\01. Unique Usernames\\obj\\",
+      "projectPath": "D:\\Ivo\\SoftUni\\C#Advanced\\C# Advanced\\3. Sets and Dictionaries Advanced\\Set and Dictonaries Adv\\01. Unique Usernames\\01. Unique Usernames.csproj",
+      "packagesPath": "C:\\Users\\Ivaylo Apostolov\\.nuget\\packages\\",
+      "outputPath": "D:\\Ivo\\SoftUni\\C#Advanced\\C# Advanced\\3. Sets and Dictionaries Advanced\\Set and Dictonaries Adv\\01. Unique Usernames\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS VivoBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ivaylo Apostolov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

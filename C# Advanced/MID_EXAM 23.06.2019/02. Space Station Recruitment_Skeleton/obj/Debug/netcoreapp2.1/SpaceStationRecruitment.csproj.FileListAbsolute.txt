@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\bin\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\MID_EXAM 23.06.2019\02. Space Station Recruitment_Skeleton\obj\Debug\netcoreapp2.1\SpaceStationRecruitment.pdb

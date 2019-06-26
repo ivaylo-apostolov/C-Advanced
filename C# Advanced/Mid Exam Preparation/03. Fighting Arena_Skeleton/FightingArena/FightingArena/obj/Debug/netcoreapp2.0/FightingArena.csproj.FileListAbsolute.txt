@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\bin\Debug\netcoreapp2.0\FightingArena.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\03. Fighting Arena_Skeleton\FightingArena\FightingArena\obj\Debug\netcoreapp2.0\FightingArena.pdb

@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\bin\Debug\netcoreapp2.1\Salad.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\bin\Debug\netcoreapp2.1\Salad.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\bin\Debug\netcoreapp2.1\Salad.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\bin\Debug\netcoreapp2.1\Salad.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\bin\Debug\netcoreapp2.1\Salad.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\obj\Debug\netcoreapp2.1\Salad.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\obj\Debug\netcoreapp2.1\Salad.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\obj\Debug\netcoreapp2.1\Salad.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\obj\Debug\netcoreapp2.1\Salad.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\obj\Debug\netcoreapp2.1\Salad.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\Salad\obj\Debug\netcoreapp2.1\Salad.pdb

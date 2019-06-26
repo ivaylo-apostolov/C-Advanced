@@ -1,0 +1,22 @@
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\atana\source\repos\Repository\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\atana\source\repos\Repository\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\bin\Debug\netcoreapp2.1\Repository.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\03. Repository_Скелет\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache

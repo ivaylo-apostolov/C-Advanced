@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\bin\Debug\netcoreapp2.1\01. Socks.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\bin\Debug\netcoreapp2.1\01. Socks.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\bin\Debug\netcoreapp2.1\01. Socks.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\bin\Debug\netcoreapp2.1\01. Socks.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\bin\Debug\netcoreapp2.1\01. Socks.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 17.02.2019\Exam 17.02.2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.pdb

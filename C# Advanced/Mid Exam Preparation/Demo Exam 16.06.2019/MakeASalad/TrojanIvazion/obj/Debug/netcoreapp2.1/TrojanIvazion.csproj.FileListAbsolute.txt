@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\bin\Debug\netcoreapp2.1\TrojanIvazion.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\bin\Debug\netcoreapp2.1\TrojanIvazion.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\bin\Debug\netcoreapp2.1\TrojanIvazion.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\bin\Debug\netcoreapp2.1\TrojanIvazion.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\bin\Debug\netcoreapp2.1\TrojanIvazion.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\obj\Debug\netcoreapp2.1\TrojanIvazion.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\obj\Debug\netcoreapp2.1\TrojanIvazion.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\obj\Debug\netcoreapp2.1\TrojanIvazion.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\obj\Debug\netcoreapp2.1\TrojanIvazion.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\obj\Debug\netcoreapp2.1\TrojanIvazion.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\TrojanIvazion\obj\Debug\netcoreapp2.1\TrojanIvazion.pdb

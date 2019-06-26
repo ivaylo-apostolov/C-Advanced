@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\bin\Debug\netcoreapp2.1\HealthyHeaven.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\New folder\03. Healthy Heaven_Skeleton\HealthyHeaven\obj\Debug\netcoreapp2.1\HealthyHeaven.pdb

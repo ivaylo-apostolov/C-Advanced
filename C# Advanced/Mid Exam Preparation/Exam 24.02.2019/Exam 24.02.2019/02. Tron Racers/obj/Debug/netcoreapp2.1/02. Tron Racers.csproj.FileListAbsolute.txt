@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Exam 24.02.2019\Exam 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.csprojAssemblyReference.cache

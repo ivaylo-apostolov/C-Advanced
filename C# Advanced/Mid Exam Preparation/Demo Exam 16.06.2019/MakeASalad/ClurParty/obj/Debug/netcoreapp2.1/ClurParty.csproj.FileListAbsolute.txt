@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\bin\Debug\netcoreapp2.1\ClurParty.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\bin\Debug\netcoreapp2.1\ClurParty.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\bin\Debug\netcoreapp2.1\ClurParty.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\bin\Debug\netcoreapp2.1\ClurParty.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\bin\Debug\netcoreapp2.1\ClurParty.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\obj\Debug\netcoreapp2.1\ClurParty.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\obj\Debug\netcoreapp2.1\ClurParty.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\obj\Debug\netcoreapp2.1\ClurParty.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\obj\Debug\netcoreapp2.1\ClurParty.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\obj\Debug\netcoreapp2.1\ClurParty.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\Mid Exam Preparation\Demo Exam 16.06.2019\MakeASalad\ClurParty\obj\Debug\netcoreapp2.1\ClurParty.pdb

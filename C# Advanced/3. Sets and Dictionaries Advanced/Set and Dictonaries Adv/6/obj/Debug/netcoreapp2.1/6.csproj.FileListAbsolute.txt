@@ -1,0 +1,11 @@
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\bin\Debug\netcoreapp2.1\6.deps.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\bin\Debug\netcoreapp2.1\6.runtimeconfig.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\bin\Debug\netcoreapp2.1\6.runtimeconfig.dev.json
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\bin\Debug\netcoreapp2.1\6.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\bin\Debug\netcoreapp2.1\6.pdb
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\obj\Debug\netcoreapp2.1\6.csprojAssemblyReference.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\obj\Debug\netcoreapp2.1\6.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\obj\Debug\netcoreapp2.1\6.AssemblyInfoInputs.cache
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\obj\Debug\netcoreapp2.1\6.AssemblyInfo.cs
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\obj\Debug\netcoreapp2.1\6.dll
+D:\Ivo\SoftUni\C#Advanced\C# Advanced\3. Sets and Dictionaries Advanced\Set and Dictonaries Adv\6\obj\Debug\netcoreapp2.1\6.pdb
